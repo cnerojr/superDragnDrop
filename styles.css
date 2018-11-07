@@ -1,0 +1,87 @@
+#div1 {
+    width: 250px;
+    height: 100px;
+    padding: 10px;
+    border: 2px solid red;
+}
+#drag1 {
+    width: 100px;
+    height: 75px;
+    padding: 10px;
+    border: 5px solid #17202A;
+}
+
+#drag2{
+    width: 100px;
+    height: 75px;
+    padding: 10px;
+    border: 5px solid red;
+}
+
+#drag3{
+    width: 100px;
+    height: 75px;
+    padding: 10px;
+    border: 5px solid blue;
+}
+#drag4{
+    width: 100px;
+    height: 75px;
+    padding: 10px;
+    border: 5px solid green;
+}
+#drag5{
+    width: 100px;
+    height: 75px;
+    padding: 10px;
+    border: 5px solid silver;
+}
+#drag6{
+    width: 100px;
+    height: 75px;
+    padding: 10px;
+    border: 5px solid purple;
+	
+}
+#drag7{
+    width: 100px;
+    height: 75px;
+    padding: 10px;
+    border: 5px solid yellow;
+}
+#drag8{
+    width: 100px;
+    height: 75px;
+	padding:10px;
+	border: 5px solid pink;
+}
+#drag9{
+	 width: 100px;
+    height: 75px;
+	padding:10px;
+	border: 5px solid #28B463;
+}
+body{
+	background-image: #A9CCE3;
+	font-family: 'Luckiest Guy', cursive;
+}
+h1{
+	font-size: 100px;
+	color: red;
+	text-align:center;
+}
+h2{
+	font-size: 25px;
+	color: yellow;
+	text-align:center;
+}
+p {
+	font-size: 50px;
+	color: blue;
+	text-align:center;
+}
+#p2{
+	font-size:25px;
+	color:red;
+	text-align:left;
+}
